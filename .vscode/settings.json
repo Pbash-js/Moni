@@ -1,0 +1,6 @@
+{
+  "smoothtype.duration": 80,
+  "smoothtype.autoReload": false,
+  "js/ts.implicitProjectConfig.checkJs": false,
+  "search.useIgnoreFiles": true
+}
